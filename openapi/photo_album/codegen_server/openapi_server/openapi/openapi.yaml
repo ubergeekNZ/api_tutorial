@@ -9,7 +9,7 @@ info:
   version: 0.0.1
 servers:
 - description: Example API Service
-  url: http://localhost:8080/
+  url: /api/v1/
 paths:
   /users:
     post:
